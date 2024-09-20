@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Absoz! 
 - 👀 I’m interested in virtualization, networking, linux, scripting, programming, and Cybersecurity.
-- 🌱 I'm currently a student at Colorado State University persuing my B.S. in Computer Science with a concentration in Networking and Security. 
+- 🌱 I'm currently an undergraduate student at Colorado State University persuing my B.S. in Computer Science with a concentration in Networks and Security. 
 - I have been working in IT for 8 years starting as a field service tech working with Point of Sale (PoS) technology and now work primarily as a network and server tech.
