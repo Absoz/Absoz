@@ -12,7 +12,7 @@
 #### Modeling and Visualizing Avalanche Risk in the Colorado Rockies
   - Course: CS455 Distributed Systems
   - Used geospatial data (Lidar & 3DEP) from NASA, NOAA, USGS, and historical avalanche records from the Colorado Avalanche Information Center (CAIC) to create 3D and 2D maps of geographical avalanche risk and overlayed historical avalanche records using GIS software to create a data product useful for avalanche risk assessment and improving public safety in the backcountry.
-  - Apache Hadoop Map/Reduce (JAVA), QGIS, GDAL, and a distributed download script (Bash & tmux) to pull data from public APIs without hitting the API limiters
+  - Apache Hadoop Map/Reduce (JAVA), QGIS, GDAL, and a distributed download script (Bash & tmux) to pull data from public APIs without overloading the API or hitting the API limiters
 #### Using Spark and Random Forests to classify water quality samples as wildfire affected using only water quality attributes
   - Course: CS435 Big Data
   - Used Apache Spark SQL and machine learning libraries to join the EPA's aggregated water quality data and the USFS wildfire occurrence database into several datasets of records with water-quality attributes and a one-hot encoded label indicating whether or not a given sample is within a specified temporal and spatial proximity to a known wildfire occurrence. These labeled datasets were used to train RF classifiers to determine if water-quality samples were wildfire-affected.
