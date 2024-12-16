@@ -20,15 +20,15 @@
 #### Parallelizing the Floyd-Warshall All Pair Shortest Path algorithm for GPU and profiling performance in comparison with CPU
   - Course: CS475 Parallel Programming
   - Parallelized the Floy-Warshall algorithm using blocking/tiling and a deep analysis of computational dependencies. This blocked parallel implementation was profiled and benchmarked compared against several other parallel implementations of the Floyd-Warshall algorithm 
-  - C, CUDA, and Bash 
+  - C, CUDA, Intel profiler, NVIDIA profiler and Bash 
 #### Interactive Mapping and Route Optimization Web Application
   - Course: CS314 Software Engineering
   - Created a website where users could create trips either by selecting cities, entering latitude/longitude points, or clicking the map. Clients then had the option to have the website optimize a route between all of the selected locations. The Nearest-Neighbor algorithm with some optimizations was used to calculate the optimal route.
-  - React Javascript front end and Java/SQL backend exposed through REST APIs, npm, maven, TDD (JUnit and Postman), CI/CD pipelines, git for configuration management, project requirements specification experience, group based software development using Github repo.
+  - React Javascript front end and Java/SQL backend exposed through REST APIs, npm, maven, TDD (JUnit, Jest, and Postman), CI/CD pipelines, project requirements specification experience, git, and Github
 #### Project Management Application
   - Course: CS415 Software Testing
   - Created project management software using test driven development processes and procedures.
-  - Javascript, Java, SQL, TDD, graph-based testing, input space partitioning testing, input fuzzing, finite state machines, and automated test generation using Selenium. 
+  - Javascript, Java, SQL, TDD, graph-based testing, input space partitioning testing, unit testing, integration testing, input fuzzing, finite state machines, and automated test generation using Selenium. 
 #### Using Machine Learning to classify and analyze Malware Samples
   - Course: CS456 Modern Cybersecurity
   - Used python machine learning to classify code samples as malware or benign, and to perform statistical analysis on the malware distribution.
