@@ -15,7 +15,7 @@
   - Apache Hadoop Map/Reduce (JAVA), QGIS, GDAL, and a distributed download script (Bash & tmux) to pull data from public APIs without hitting the API limiters
 #### Using Spark and Random Forests to classify water quality samples as wildfire affected using only water quality attributes
   - Course: CS435 Big Data
-  - Used Apache Spark SQL and machine learning libraries to join the EPA's aggregated water quality data and the USFS wildfire occurrence database into several datasets of records with water-quality attributes and a one-hot encoded label specifying whether or not a given sample is within a specified temporal and spatial proximity to a known wildfire occurrence. These labeled datasets were used to train RF classifiers to determine if water-quality samples were wildfire-affected.
+  - Used Apache Spark SQL and machine learning libraries to join the EPA's aggregated water quality data and the USFS wildfire occurrence database into several datasets of records with water-quality attributes and a one-hot encoded label indicating whether or not a given sample is within a specified temporal and spatial proximity to a known wildfire occurrence. These labeled datasets were used to train RF classifiers to determine if water-quality samples were wildfire-affected.
   - Apache Spark (Random Forest Classifier), HDFS, Scala, Java, Bash, and Python (Numpy, Pandas, and Matplotlib) 
 #### Parallelizing the Floyd-Warshall All Pair Shortest Path algorithm for GPU and profiling performance in comparison with CPU
   - Course: CS475 Parallel Programming
