@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Absoz! 
 - I have a passion for applying my computer science knowledge, deep technical skillset, and strong foundation in data science to tackle novel/interesting problems
-- B.S. Computer Science with a concentration in Networks and Security | A.A.S Computer Networking and Virtualization
+- B.S. Computer Science with a concentration in Computer Networking and Cybersecurity | A.A.S Computer Networking and Virtualization
 - CSIS (Sec+, A+, Net+), currently working towards renewing my CCNA and RHCSA
 - 9 years of experience in IT contracting starting as a field service tech working break/fix on Point of Sale (PoS) technology and expanded into the role of a network and server tech
  - (rack & stacks, cable runs & termination, device configuration, device lifecycle management, etc)
